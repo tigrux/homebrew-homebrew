@@ -1,8 +1,8 @@
 class Traeger < Formula
   desc "Portable Actor System for C++"
   homepage "https://github.com/tigrux/traeger"
-  url "https://github.com/tigrux/traeger/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "e502400eab8dd3cd1d652e4802f7369b27a3c07345a1056a12bcfc05ff761b4b"
+  url "https://github.com/tigrux/traeger/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "69803b8e9bda4ab75236afc93214001495d4eefa26ecaf52be18525f15bc62d4"
   license "BSL-1.0"
 
   depends_on "catch2" => :build
